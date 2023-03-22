@@ -6,7 +6,7 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/23 17:00:28 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/14 21:24:53 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/03/22 17:42:09 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,11 +24,24 @@ typedef struct	v_time
 	int	time_to_eat;
 	int	time_to_die;
 	int	time_to_sleep;
+	long long		birth;
 }			t_time;
+
+typedef	struct	v_info
+{
+	struct	timeval first;
+	long			start;
+}				t_info;
+
+typedef struct v_lock
+{
+	pthread_mutex_t	mtx;
+}				t_lock;
 
 typedef	struct v_philo
 {
 	int				id;
+	int				lf;
 	int				checker;
 	int				eating_counter;
 	int				time_to_eat;
@@ -37,19 +50,19 @@ typedef	struct v_philo
 	pthread_mutex_t	left_fork;
 	pthread_mutex_t	right_fork;
 	pthread_mutex_t	*forks;
-	int				lf;
+	long long		start_time;
+	long long		last_meal_time;
+	t_info			*tinf;
+	t_lock			*lock;
+	pthread_mutex_t	*mtxa;
 	int				rf;
+	int				check;
+	int				*point;
 	void			*next;
 }				t_philo;
 
-typedef	struct	v_info
-{
-	struct	timeval first;
-	long			start;
-}				t_info;
+pthread_mutex_t	mot;
 
-pthread_mutex_t	mtx;
-pthread_mutex_t	sl;
 // Args checker
 int				ft_atoi(char *str);
 
@@ -62,15 +75,17 @@ void			ft_lstadd_front(t_philo **lst, t_philo *new);
 void			*routine(void *data);
 
 // Init variables
-void			philosopher_init(char **av, t_philo *ph, int nbr_ph);
-pthread_t		*create_threads(int nbr_ph, t_philo *ph, pthread_mutex_t *mt);
+void			philosopher_init(char **av, t_philo *ph, int id, pthread_mutex_t *mt);
+
+// threads and mutex init
+void			create_threads(int nbr_ph, t_philo *ph, pthread_t *thread);
 pthread_mutex_t	*forks_init(int nbr_philo);
 void			forks_destroyer(pthread_mutex_t *mt, int nbr_philo);
-long			getcurrenttime(t_info *tv);
 
+int				check_death(t_philo *ph);
 
-// needs
-void			data_visualiser(t_philo *ph);
-
+// time
+long long 		getcurrenttime(t_info *tv);
+void			ft_usleep(long long time_to_do, t_info *tf);
 
 #endif

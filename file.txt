@@ -1,0 +1,1447 @@
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+1 1 is thinking
+1 1 has taken a fork
+1 1 has taken a fork
+1 1 is eating
+1 2 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+1 3 is thinking
+1 3 has taken a fork
+1 3 has taken a fork
+1 3 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+1 4 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+1 5 is thinking
+1 5 has taken a fork
+1 5 has taken a fork
+1 5 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+1 6 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+2 7 is thinking
+2 7 has taken a fork
+2 7 has taken a fork
+2 7 is eating
+2 8 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+2 9 is thinking
+2 9 has taken a fork
+2 9 has taken a fork
+2 9 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+2 10 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+2 11 is thinking
+2 11 has taken a fork
+2 11 has taken a fork
+2 11 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+2 12 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+2 13 is thinking
+2 13 has taken a fork
+2 13 has taken a fork
+2 13 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+2 14 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+3 15 is thinking
+3 15 has taken a fork
+3 15 has taken a fork
+3 15 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+3 16 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+3 17 is thinking
+3 17 has taken a fork
+3 17 has taken a fork
+3 17 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+3 18 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+3 19 is thinking
+3 19 has taken a fork
+3 19 has taken a fork
+3 19 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+3 20 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+3 21 is thinking
+3 21 has taken a fork
+3 21 has taken a fork
+3 21 is eating
+4 22 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+4 23 is thinking
+4 23 has taken a fork
+4 23 has taken a fork
+4 23 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+4 24 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+4 25 is thinking
+4 25 has taken a fork
+4 25 has taken a fork
+4 25 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+4 26 is thinking
+4 27 is thinking
+4 27 has taken a fork
+4 27 has taken a fork
+4 27 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+4 28 is thinking
+5 29 is thinking
+5 29 has taken a fork
+5 29 has taken a fork
+5 29 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+5 30 is thinking
+5 31 is thinking
+5 31 has taken a fork
+5 31 has taken a fork
+5 31 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+5 32 is thinking
+5 33 is thinking
+5 33 has taken a fork
+5 33 has taken a fork
+5 33 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+5 34 is thinking
+5 35 is thinking
+5 35 has taken a fork
+5 35 has taken a fork
+5 35 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+5 36 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+6 37 is thinking
+6 37 has taken a fork
+6 37 has taken a fork
+6 37 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+6 38 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+6 39 is thinking
+6 39 has taken a fork
+6 39 has taken a fork
+6 39 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+6 40 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+6 41 is thinking
+6 41 has taken a fork
+6 41 has taken a fork
+6 41 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+6 42 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+6 43 is thinking
+6 43 has taken a fork
+6 43 has taken a fork
+6 43 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+7 44 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+7 45 is thinking
+7 45 has taken a fork
+7 45 has taken a fork
+7 45 is eating
+7 46 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+7 47 is thinking
+7 47 has taken a fork
+7 47 has taken a fork
+7 47 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+7 48 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+7 49 is thinking
+7 49 has taken a fork
+7 49 has taken a fork
+7 49 is eating
+7 50 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+7 51 is thinking
+7 51 has taken a fork
+7 51 has taken a fork
+7 51 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+8 52 is thinking
+8 53 is thinking
+8 53 has taken a fork
+8 53 has taken a fork
+8 53 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+8 54 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+8 55 is thinking
+8 55 has taken a fork
+8 55 has taken a fork
+8 55 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+8 56 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+8 57 is thinking
+8 57 has taken a fork
+8 57 has taken a fork
+8 57 is eating
+8 58 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+9 59 is thinking
+9 59 has taken a fork
+9 59 has taken a fork
+9 59 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+9 60 is thinking
+9 61 is thinking
+9 61 has taken a fork
+9 61 has taken a fork
+9 61 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+9 62 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+9 63 is thinking
+9 63 has taken a fork
+9 63 has taken a fork
+9 63 is eating
+9 64 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+9 65 is thinking
+9 65 has taken a fork
+9 65 has taken a fork
+9 65 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+10 66 is thinking
+10 67 is thinking
+10 67 has taken a fork
+10 67 has taken a fork
+10 67 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+10 68 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+10 69 is thinking
+10 69 has taken a fork
+10 69 has taken a fork
+10 69 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+10 70 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+10 71 is thinking
+10 71 has taken a fork
+10 71 has taken a fork
+10 71 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+10 72 is thinking
+10 73 is thinking
+10 73 has taken a fork
+10 73 has taken a fork
+10 73 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+11 74 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+11 75 is thinking
+11 75 has taken a fork
+11 75 has taken a fork
+11 75 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+11 76 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+11 77 is thinking
+11 77 has taken a fork
+11 77 has taken a fork
+11 77 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+11 78 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+11 79 is thinking
+11 79 has taken a fork
+11 79 has taken a fork
+11 79 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+11 80 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+12 81 is thinking
+12 81 has taken a fork
+12 81 has taken a fork
+12 81 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+12 82 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+12 83 is thinking
+12 83 has taken a fork
+12 83 has taken a fork
+12 83 is eating
+12 84 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+12 85 is thinking
+12 85 has taken a fork
+12 85 has taken a fork
+12 85 is eating
+12 86 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+12 87 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+12 87 has taken a fork
+12 87 has taken a fork
+12 87 is eating
+12 88 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+13 89 is thinking
+13 89 has taken a fork
+13 89 has taken a fork
+13 89 is eating
+13 90 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+13 91 is thinking
+13 91 has taken a fork
+13 91 has taken a fork
+13 91 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+13 92 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+13 93 is thinking
+13 93 has taken a fork
+13 93 has taken a fork
+13 93 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+13 94 is thinking
+13 95 is thinking
+13 95 has taken a fork
+13 95 has taken a fork
+13 95 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+14 96 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+14 97 is thinking
+14 97 has taken a fork
+14 97 has taken a fork
+14 97 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+14 98 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+14 99 is thinking
+14 99 has taken a fork
+14 99 has taken a fork
+14 99 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+14 100 is thinking
+14 101 is thinking
+14 101 has taken a fork
+14 101 has taken a fork
+14 101 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+14 102 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+15 103 is thinking
+15 103 has taken a fork
+15 103 has taken a fork
+15 103 is eating
+15 104 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+15 105 is thinking
+15 105 has taken a fork
+15 105 has taken a fork
+15 105 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+15 106 is thinking
+15 107 is thinking
+15 107 has taken a fork
+15 107 has taken a fork
+15 107 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+15 108 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+15 109 is thinking
+15 109 has taken a fork
+15 109 has taken a fork
+15 109 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+15 110 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+16 111 is thinking
+16 111 has taken a fork
+16 111 has taken a fork
+16 111 is eating
+16 112 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+16 113 is thinking
+16 113 has taken a fork
+16 113 has taken a fork
+16 113 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+16 114 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+16 115 is thinking
+16 115 has taken a fork
+16 115 has taken a fork
+16 115 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+16 116 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+16 117 is thinking
+16 117 has taken a fork
+16 117 has taken a fork
+16 117 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+16 118 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+17 119 is thinking
+17 119 has taken a fork
+17 119 has taken a fork
+17 119 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+17 120 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+17 121 is thinking
+17 121 has taken a fork
+17 121 has taken a fork
+17 121 is eating
+17 122 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+17 123 is thinking
+17 123 has taken a fork
+17 123 has taken a fork
+17 123 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+17 124 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+17 125 is thinking
+17 125 has taken a fork
+17 125 has taken a fork
+17 125 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 126 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 127 is thinking
+18 127 has taken a fork
+18 127 has taken a fork
+18 127 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 128 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 129 is thinking
+18 129 has taken a fork
+18 129 has taken a fork
+18 129 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 130 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 131 is thinking
+18 131 has taken a fork
+18 131 has taken a fork
+18 131 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 132 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+18 133 is thinking
+18 133 has taken a fork
+18 133 has taken a fork
+18 133 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+19 134 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+19 135 is thinking
+19 135 has taken a fork
+19 135 has taken a fork
+19 135 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+19 136 is thinking
+19 137 is thinking
+19 137 has taken a fork
+19 137 has taken a fork
+19 137 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+19 138 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+19 139 is thinking
+19 139 has taken a fork
+19 139 has taken a fork
+19 139 is eating
+19 140 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+20 141 is thinking
+20 141 has taken a fork
+20 141 has taken a fork
+20 141 is eating
+20 142 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+20 143 is thinking
+20 143 has taken a fork
+20 143 has taken a fork
+20 143 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+20 144 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+20 145 is thinking
+20 145 has taken a fork
+20 145 has taken a fork
+20 145 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+20 146 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+20 147 is thinking
+20 147 has taken a fork
+20 147 has taken a fork
+20 147 is eating
+20 148 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+21 149 is thinking
+21 149 has taken a fork
+21 149 has taken a fork
+21 149 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+21 150 is thinking
+21 151 is thinking
+21 151 has taken a fork
+21 151 has taken a fork
+21 151 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+21 152 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+21 153 is thinking
+21 153 has taken a fork
+21 153 has taken a fork
+21 153 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+21 154 is thinking
+21 155 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+21 155 has taken a fork
+21 155 has taken a fork
+21 155 is eating
+22 156 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+22 157 is thinking
+22 157 has taken a fork
+22 157 has taken a fork
+22 157 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+22 158 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+22 159 is thinking
+22 159 has taken a fork
+22 159 has taken a fork
+22 159 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+22 160 is thinking
+22 161 is thinking
+22 161 has taken a fork
+22 161 has taken a fork
+22 161 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+22 162 is thinking
+23 163 is thinking
+23 163 has taken a fork
+23 163 has taken a fork
+23 163 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+23 164 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+23 165 is thinking
+23 165 has taken a fork
+23 165 has taken a fork
+23 165 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+23 166 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+23 167 is thinking
+23 167 has taken a fork
+23 167 has taken a fork
+23 167 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+23 168 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+23 169 is thinking
+23 169 has taken a fork
+23 169 has taken a fork
+23 169 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+24 170 is thinking
+24 171 is thinking
+24 171 has taken a fork
+24 171 has taken a fork
+24 171 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+24 172 is thinking
+24 173 is thinking
+24 173 has taken a fork
+24 173 has taken a fork
+24 173 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+24 174 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+24 175 is thinking
+24 175 has taken a fork
+24 175 has taken a fork
+24 175 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+24 176 is thinking
+24 177 is thinking
+24 177 has taken a fork
+24 177 has taken a fork
+24 177 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+25 178 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+25 179 is thinking
+25 179 has taken a fork
+25 179 has taken a fork
+25 179 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+25 180 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+25 181 is thinking
+25 181 has taken a fork
+25 181 has taken a fork
+25 181 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+25 182 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+25 183 is thinking
+25 183 has taken a fork
+25 183 has taken a fork
+25 183 is eating
+25 184 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 185 is thinking
+26 185 has taken a fork
+26 185 has taken a fork
+26 185 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 186 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 187 is thinking
+26 187 has taken a fork
+26 187 has taken a fork
+26 187 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 188 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 189 is thinking
+26 189 has taken a fork
+26 189 has taken a fork
+26 189 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 190 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 191 is thinking
+26 191 has taken a fork
+26 191 has taken a fork
+26 191 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+26 192 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+27 193 is thinking
+27 193 has taken a fork
+27 193 has taken a fork
+27 193 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+27 194 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+27 195 is thinking
+27 195 has taken a fork
+27 195 has taken a fork
+27 195 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+27 196 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+27 197 is thinking
+27 197 has taken a fork
+27 197 has taken a fork
+27 197 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+27 198 is thinking
+27 199 is thinking
+27 199 has taken a fork
+27 199 has taken a fork
+27 199 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+28 200 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+28 201 is thinking
+28 201 has taken a fork
+28 201 has taken a fork
+28 201 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+28 202 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+28 203 is thinking
+28 203 has taken a fork
+28 203 has taken a fork
+28 203 is eating
+28 204 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+28 205 is thinking
+28 205 has taken a fork
+28 205 has taken a fork
+28 205 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+28 206 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+29 207 is thinking
+29 207 has taken a fork
+29 207 has taken a fork
+29 207 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+29 208 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+29 209 is thinking
+29 209 has taken a fork
+29 209 has taken a fork
+29 209 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+29 210 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+29 211 is thinking
+29 211 has taken a fork
+29 211 has taken a fork
+29 211 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+29 212 is thinking
+29 213 is thinking
+29 213 has taken a fork
+29 213 has taken a fork
+29 213 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+30 214 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+30 215 is thinking
+30 215 has taken a fork
+30 215 has taken a fork
+30 215 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+30 216 is thinking
+30 217 is thinking
+30 217 has taken a fork
+30 217 has taken a fork
+30 217 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+30 218 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+30 219 is thinking
+30 219 has taken a fork
+30 219 has taken a fork
+30 219 is eating
+30 220 is thinking
+31 221 is thinking
+31 221 has taken a fork
+31 221 has taken a fork
+31 221 is eating
+31 222 is thinking
+201 5 is sleeping
+201 1 is sleeping
+201 2 has taken a fork
+201 2 has taken a fork
+201 4 has taken a fork
+201 4 has taken a fork
+201 4 is eating
+201 2 is eating
+201 3 is sleeping
+202 13 is sleeping
+202 9 is sleeping
+203 11 is sleeping
+203 12 has taken a fork
+203 12 has taken a fork
+203 12 is eating
+203 10 has taken a fork
+203 10 has taken a fork
+203 10 is eating
+203 6 has taken a fork
+203 8 has taken a fork
+203 6 has taken a fork
+203 6 is eating
+203 8 has taken a fork
+203 8 is eating
+203 7 is sleeping
+203 21 is sleeping
+204 27 is sleeping
+204 17 is sleeping
+204 14 has taken a fork
+204 14 has taken a fork
+204 14 is eating
+204 15 is sleeping
+204 16 has taken a fork
+204 16 has taken a fork
+204 16 is eating
+204 18 has taken a fork
+204 18 has taken a fork
+204 18 is eating
+204 20 has taken a fork
+204 20 has taken a fork
+204 20 is eating
+204 19 is sleeping
+204 26 has taken a fork
+204 26 has taken a fork
+204 26 is eating
+204 22 has taken a fork
+204 22 has taken a fork
+204 24 has taken a fork
+204 22 is eating
+204 24 has taken a fork
+204 24 is eating
+204 25 is sleeping
+204 23 is sleeping
+205 33 is sleeping
+205 28 has taken a fork
+205 28 has taken a fork
+205 28 is eating
+205 29 is sleeping
+205 31 is sleeping
+205 30 has taken a fork
+205 30 has taken a fork
+205 32 has taken a fork
+205 32 has taken a fork
+205 32 is eating
+205 30 is eating
+205 34 has taken a fork
+205 34 has taken a fork
+205 34 is eating
+205 35 is sleeping
+206 39 is sleeping
+206 40 has taken a fork
+206 40 has taken a fork
+206 40 is eating
+206 41 is sleeping
+206 37 is sleeping
+206 36 has taken a fork
+206 36 has taken a fork
+206 36 is eating
+206 38 has taken a fork
+206 38 has taken a fork
+206 38 is eating
+206 43 is sleeping
+206 42 has taken a fork
+206 42 has taken a fork
+206 42 is eating
+207 44 has taken a fork
+207 44 has taken a fork
+207 44 is eating
+207 45 is sleeping
+207 46 has taken a fork
+207 46 has taken a fork
+207 46 is eating
+207 47 is sleeping
+208 51 is sleeping
+208 48 has taken a fork
+208 48 has taken a fork
+208 48 is eating
+208 50 has taken a fork
+208 52 has taken a fork
+208 50 has taken a fork
+208 50 is eating
+208 49 is sleeping
+208 52 has taken a fork
+208 52 is eating
+208 53 is sleeping
+208 57 is sleeping
+208 54 has taken a fork
+208 54 has taken a fork
+208 55 is sleeping
+208 54 is eating
+208 56 has taken a fork
+208 56 has taken a fork
+208 56 is eating
+209 65 is sleeping
+210 61 is sleeping
+210 59 is sleeping
+210 58 has taken a fork
+210 58 has taken a fork
+210 58 is eating
+210 60 has taken a fork
+210 62 has taken a fork
+210 73 is sleeping
+210 60 has taken a fork
+210 63 is sleeping
+210 60 is eating
+210 64 has taken a fork
+210 64 has taken a fork
+210 64 is eating
+210 62 has taken a fork
+210 62 is eating
+210 66 has taken a fork
+210 66 has taken a fork
+210 66 is eating
+210 67 is sleeping
+210 71 is sleeping
+210 72 has taken a fork
+210 72 has taken a fork
+210 72 is eating
+210 69 is sleeping
+210 68 has taken a fork
+210 68 has taken a fork
+210 68 is eating
+210 70 has taken a fork
+210 70 has taken a fork
+210 70 is eating
+211 77 is sleeping
+211 75 is sleeping
+211 74 has taken a fork
+211 74 has taken a fork
+211 74 is eating
+211 76 has taken a fork
+211 76 has taken a fork
+211 76 is eating
+211 78 has taken a fork
+211 78 has taken a fork
+211 78 is eating
+211 79 is sleeping
+212 85 is sleeping
+212 80 has taken a fork
+212 80 has taken a fork
+212 80 is eating
+212 81 is sleeping
+212 87 is sleeping
+212 86 has taken a fork
+212 86 has taken a fork
+212 86 is eating
+212 82 has taken a fork
+212 82 has taken a fork
+212 82 is eating
+212 83 is sleeping
+212 84 has taken a fork
+212 84 has taken a fork
+212 84 is eating
+213 95 is sleeping
+213 91 is sleeping
+214 99 is sleeping
+214 101 is sleeping
+214 100 has taken a fork
+214 100 has taken a fork
+214 100 is eating
+214 88 has taken a fork
+214 88 has taken a fork
+214 88 is eating
+214 89 is sleeping
+214 90 has taken a fork
+214 90 has taken a fork
+214 90 is eating
+214 97 is sleeping
+214 96 has taken a fork
+214 96 has taken a fork
+214 96 is eating
+214 98 has taken a fork
+214 98 has taken a fork
+214 98 is eating
+214 93 is sleeping
+214 94 has taken a fork
+214 94 has taken a fork
+214 94 is eating
+214 92 has taken a fork
+214 92 has taken a fork
+214 92 is eating
+215 105 is sleeping
+215 107 is sleeping
+215 106 has taken a fork
+215 106 has taken a fork
+215 106 is eating
+215 109 is sleeping
+215 108 has taken a fork
+215 108 has taken a fork
+215 108 is eating
+215 102 has taken a fork
+215 102 has taken a fork
+215 102 is eating
+215 103 is sleeping
+215 104 has taken a fork
+215 104 has taken a fork
+215 104 is eating
+216 113 is sleeping
+216 114 has taken a fork
+216 114 has taken a fork
+216 114 is eating
+216 115 is sleeping
+216 117 is sleeping
+216 116 has taken a fork
+216 116 has taken a fork
+216 116 is eating
+216 111 is sleeping
+216 110 has taken a fork
+216 110 has taken a fork
+216 110 is eating
+216 112 has taken a fork
+216 112 has taken a fork
+216 112 is eating
+217 121 is sleeping
+217 118 has taken a fork
+217 118 has taken a fork
+217 118 is eating
+217 119 is sleeping
+217 120 has taken a fork
+217 120 has taken a fork
+217 120 is eating
+217 125 is sleeping
+217 123 is sleeping
+217 124 has taken a fork
+217 124 has taken a fork
+217 124 is eating
+217 122 has taken a fork
+217 122 has taken a fork
+217 122 is eating
+218 129 is sleeping
+218 126 has taken a fork
+218 126 has taken a fork
+218 126 is eating
+218 128 has taken a fork
+218 128 has taken a fork
+218 128 is eating
+218 127 is sleeping
+219 130 has taken a fork
+219 130 has taken a fork
+219 130 is eating
+219 131 is sleeping
+219 132 has taken a fork
+219 132 has taken a fork
+219 132 is eating
+219 133 is sleeping
+219 139 is sleeping
+220 137 is sleeping
+220 138 has taken a fork
+220 138 has taken a fork
+220 138 is eating
+220 134 has taken a fork
+220 134 has taken a fork
+220 134 is eating
+220 136 has taken a fork
+220 136 has taken a fork
+220 136 is eating
+220 135 is sleeping
+220 143 is sleeping
+220 144 has taken a fork
+220 145 is sleeping
+220 144 has taken a fork
+220 144 is eating
+220 140 has taken a fork
+220 140 has taken a fork
+220 140 is eating
+220 147 is sleeping
+220 146 has taken a fork
+220 141 is sleeping
+220 146 has taken a fork
+220 146 is eating
+220 142 has taken a fork
+220 142 has taken a fork
+220 142 is eating
+221 153 is sleeping
+221 148 has taken a fork
+221 148 has taken a fork
+221 148 is eating
+221 149 is sleeping
+221 150 has taken a fork
+221 151 is sleeping
+221 152 has taken a fork
+221 152 has taken a fork
+221 152 is eating
+221 150 has taken a fork
+221 150 is eating
+221 154 has taken a fork
+221 154 has taken a fork
+221 154 is eating
+221 155 is sleeping
+222 161 is sleeping
+222 157 is sleeping
+222 156 has taken a fork
+222 156 has taken a fork
+222 156 is eating
+223 163 is sleeping
+223 162 has taken a fork
+223 162 has taken a fork
+223 162 is eating
+223 169 is sleeping
+223 159 is sleeping
+223 158 has taken a fork
+223 160 has taken a fork
+223 160 has taken a fork
+223 160 is eating
+223 158 has taken a fork
+223 158 is eating
+223 165 is sleeping
+223 164 has taken a fork
+223 164 has taken a fork
+223 164 is eating
+223 167 is sleeping
+223 166 has taken a fork
+223 166 has taken a fork
+223 166 is eating
+223 168 has taken a fork
+223 168 has taken a fork
+223 168 is eating
+224 171 is sleeping
+224 170 has taken a fork
+224 170 has taken a fork
+224 170 is eating
+224 172 has taken a fork
+224 172 has taken a fork
+224 172 is eating
+224 173 is sleeping
+224 177 is sleeping
+224 175 is sleeping
+224 174 has taken a fork
+224 174 has taken a fork
+224 174 is eating
+224 176 has taken a fork
+224 176 has taken a fork
+224 176 is eating
+225 181 is sleeping
+225 178 has taken a fork
+225 178 has taken a fork
+225 178 is eating
+225 180 has taken a fork
+225 180 has taken a fork
+225 180 is eating
+225 179 is sleeping
+225 182 has taken a fork
+225 182 has taken a fork
+225 182 is eating
+225 183 is sleeping
+226 191 is sleeping
+226 189 is sleeping
+226 190 has taken a fork
+226 190 has taken a fork
+226 190 is eating
+226 184 has taken a fork
+226 184 has taken a fork
+226 184 is eating
+226 185 is sleeping
+226 187 is sleeping
+226 188 has taken a fork
+226 188 has taken a fork
+226 188 is eating
+226 186 has taken a fork
+226 186 has taken a fork
+226 186 is eating
+227 197 is sleeping
+227 192 has taken a fork
+227 192 has taken a fork
+227 192 is eating
+227 193 is sleeping
+227 199 is sleeping
+227 198 has taken a fork
+227 198 has taken a fork
+227 198 is eating
+227 195 is sleeping
+227 194 has taken a fork
+227 194 has taken a fork
+227 194 is eating
+227 196 has taken a fork
+227 196 has taken a fork
+227 196 is eating
+228 200 has taken a fork
+228 200 has taken a fork
+228 200 is eating
+228 201 is sleeping
+228 202 has taken a fork
+228 202 has taken a fork
+228 202 is eating
+228 203 is sleeping
+229 209 is sleeping
+229 213 is sleeping
+229 205 is sleeping
+229 204 has taken a fork
+229 204 has taken a fork
+229 204 is eating
+229 211 is sleeping
+229 210 has taken a fork
+229 210 has taken a fork
+229 210 is eating
+229 212 has taken a fork
+229 212 has taken a fork
+229 212 is eating
+229 207 is sleeping
+229 208 has taken a fork
+229 208 has taken a fork
+229 208 is eating
+229 206 has taken a fork
+229 206 has taken a fork
+229 206 is eating
+230 217 is sleeping
+230 214 has taken a fork
+230 214 has taken a fork
+230 214 is eating
+230 215 is sleeping
+230 216 has taken a fork
+230 216 has taken a fork
+230 216 is eating
+230 218 has taken a fork
+230 218 has taken a fork
+230 218 is eating
+230 219 is sleeping
+231 220 has taken a fork
+231 220 has taken a fork
+231 220 is eating
+231 222 has taken a fork
+231 222 has taken a fork
+231 222 is eating
+231 221 is sleeping
+401 4 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+401 5 is thinking
+401 1 is thinking
+401 2 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+402 3 is thinking
+402 3 has taken a fork
+402 3 has taken a fork
+402 3 is eating
+403 10 is sleeping
+403 8 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+403 11 is thinking
+403 13 is thinking
+403 9 is thinking
+403 9 has taken a fork
+403 9 has taken a fork
+403 9 is eating
+403 21 is thinking
+403 6 is sleeping
+403 5 has taken a fork
+403 5 has taken a fork
+403 5 is eating
+403 11 has taken a fork
+403 11 has taken a fork
+403 11 is eating
+403 12 is sleeping
+403 7 is thinking
+403 7 has taken a fork
+403 7 has taken a fork
+403 7 is eating
+404 14 is sleeping
+404 24 is sleeping
+404 26 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+404 20 is sleeping
+404 18 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+404 16 is sleeping
+404 21 has taken a fork
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+404 13 has taken a fork
+404 21 has taken a fork
+404 13 has taken a fork
+404 21 is eating
+404 13 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+404 22 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+405 17 is thinking
+405 17 has taken a fork
+405 17 has taken a fork
+405 23 is thinking
+405 23 has taken a fork
+405 23 has taken a fork
+405 23 is eating
+405 17 is eating
+405 27 is thinking
+405 25 is thinking
+405 25 has taken a fork
+405 25 has taken a fork
+405 25 is eating
+405 19 is thinking
+405 19 has taken a fork
+405 19 has taken a fork
+405 19 is eating
+405 15 is thinking
+405 15 has taken a fork
+405 15 has taken a fork
+405 15 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+405 32 is sleeping
+405 30 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+405 34 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+405 28 is sleeping
+405 27 has taken a fork
+405 27 has taken a fork
+405 27 is eating
+406 31 is thinking
+406 31 has taken a fork
+406 31 has taken a fork
+406 29 is thinking
+406 29 has taken a fork
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+406 33 is thinking
+406 31 is eating
+406 29 has taken a fork
+406 29 is eating
+406 35 is thinking
+406 33 has taken a fork
+406 33 has taken a fork
+406 33 is eating
+406 41 is thinking
+406 40 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+406 42 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+406 36 is sleeping
+406 38 is sleeping
+406 41 has taken a fork
+406 41 has taken a fork
+406 41 is eating
+406 35 has taken a fork
+406 35 has taken a fork
+406 35 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+407 37 is thinking
+407 37 has taken a fork
+407 37 has taken a fork
+407 37 is eating
+407 43 is thinking
+407 39 is thinking
+407 39 has taken a fork
+407 39 has taken a fork
+407 39 is eating
+408 45 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+408 56 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+408 52 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+408 54 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+408 44 is sleeping
+408 43 has taken a fork
+408 43 has taken a fork
+408 43 is eating
+408 50 is sleeping
+408 48 is sleeping
+408 46 is sleeping
+408 45 has taken a fork
+408 45 has taken a fork
+408 45 is eating
+408 55 is thinking
+408 55 has taken a fork
+408 47 is thinking
+408 49 is thinking
+408 47 has taken a fork
+408 49 has taken a fork
+408 47 has taken a fork
+408 53 is thinking
+408 57 is thinking
+408 51 is thinking
+408 51 has taken a fork
+408 51 has taken a fork
+408 51 is eating
+408 47 is eating
+408 55 has taken a fork
+408 49 has taken a fork
+408 49 is eating
+408 55 is eating
+408 53 has taken a fork
+408 53 has taken a fork
+408 53 is eating
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+409 65 is thinking
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+410 64 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+410 68 is sleeping
+410 72 is sleeping
+410 62 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+410 66 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+410 65 has taken a fork
+410 65 has taken a fork
+410 65 is eating
+410 58 is sleeping
+410 57 has taken a fork
+410 57 has taken a fork
+410 57 is eating
+411 73 is thinking
+411 70 is sleeping
+411 60 is sleeping
+411 61 is thinking
+411 61 has taken a fork
+411 71 is thinking
+411 69 is thinking
+411 71 has taken a fork
+411 61 has taken a fork
+411 71 has taken a fork
+411 71 is eating
+411 61 is eating
+411 69 has taken a fork
+411 69 has taken a fork
+411 69 is eating
+411 67 is thinking
+411 67 has taken a fork
+411 67 has taken a fork
+411 67 is eating
+411 63 is thinking
+411 63 has taken a fork
+411 63 has taken a fork
+411 63 is eating
+411 59 is thinking
+411 59 has taken a fork
+411 59 has taken a fork
+411 59 is eating
+411 76 is sleeping
+411 78 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+411 74 is sleeping
+>>>>>>>>>>>>>>>> CHECK IDX = 0 <<<<<<<<<<<<<<<<<<
+411 73 has taken a fork
+411 73 has taken a fork
+411 73 is eating
+HADI 2 = >>>>>>>>>>>>>>>> CHECK VALUE = 1 <<<<<<<<<<<<<<<<<<
+412 1 died

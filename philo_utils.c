@@ -6,7 +6,7 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/23 18:55:29 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/14 19:07:25 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/03/22 17:01:32 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,30 +34,19 @@ int ft_atoi(char *str)
 	return (res * sign);
 }
 
-pthread_t *create_threads(int nbr_ph, t_philo *ph, pthread_mutex_t *mt)
+void create_threads(int nbr_ph, t_philo *ph, pthread_t *thread)
 {
-	int i;
-	pthread_t *thread;
+	int i, check;
 
-	i = 0;
-	thread = malloc(sizeof(pthread_t) * nbr_ph);
-	if (!thread)
-		return (0);
-	while (i < nbr_ph)
-	{
-		ph->left_fork = mt[i];
-		ph->right_fork = mt[(i + 1) % nbr_ph];
-		if (pthread_create(&thread[i], NULL, &routine, (void *)ph))
-			return (0);
-		if (ph->next)
-			ph = ph->next;
-		i++;
-	}
 	i = -1;
+	check = 0;
+	if (!thread)
+		return;
 	while (++i < nbr_ph)
-	{	
-		if (pthread_join(thread[i], NULL))
-			return (0);
+	{
+		if (pthread_create(&thread[i], NULL, &routine, ((void *)&ph[i])))
+			return;
+		usleep(100);
 	}
-	return (thread);
+
 }

@@ -6,7 +6,7 @@
 #    By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/02/23 18:56:06 by gothmane          #+#    #+#              #
-#    Updated: 2023/03/13 20:12:08 by gothmane         ###   ########.fr        #
+#    Updated: 2023/03/21 17:16:28 by gothmane         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ OBJS_M = ${SRCS_M:.c=.o}
 
 CC = cc
 
-CFLAGS = -Wall -Wextra -Werror
+CFLAGS = -Wall -Wextra -Werror 
 
 RM = rm -rf
 
