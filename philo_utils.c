@@ -6,17 +6,17 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/23 18:55:29 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/22 17:01:32 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/03/26 12:06:37 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
 
-int ft_atoi(char *str)
+int	ft_atoi(char *str)
 {
-	int res;
-	int sign;
-	int i;
+	int	res;
+	int	sign;
+	int	i;
 
 	res = 0;
 	sign = 1;
@@ -34,19 +34,33 @@ int ft_atoi(char *str)
 	return (res * sign);
 }
 
-void create_threads(int nbr_ph, t_philo *ph, pthread_t *thread)
+int	create_threads(int nbr_ph, t_philo *ph, pthread_t *thread)
 {
-	int i, check;
+	int	i;
+	int	check;
 
 	i = -1;
 	check = 0;
 	if (!thread)
-		return;
+		return (0);
 	while (++i < nbr_ph)
 	{
 		if (pthread_create(&thread[i], NULL, &routine, ((void *)&ph[i])))
-			return;
-		usleep(100);
+			return (0);
+		usleep(50);
 	}
+	return (1);
+}
 
+int	join_threads(int nbr_ph, pthread_t *thread)
+{
+	int	i;
+
+	i = -1;
+	while (++i < nbr_ph)
+	{
+		if (pthread_join(thread[i], NULL))
+			return (0);
+	}
+	return (1);
 }
