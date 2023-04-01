@@ -6,7 +6,7 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/13 16:53:15 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/26 12:07:28 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/03/28 17:05:39 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@ long long	getcurrenttime(t_info *tv)
 	return (time);
 }
 
-void	ft_usleep(long long time_to_do, t_info *tf)
+void	ft_usleep(long long time_to_do, t_info *tf, int *check)
 {
 	long long	ct;
 	long long	tmp;
@@ -30,7 +30,10 @@ void	ft_usleep(long long time_to_do, t_info *tf)
 	tmp = getcurrenttime(tf);
 	while ((tmp - ct) < time_to_do)
 	{
+		if (*check == 1)
+			return ;
 		usleep(1000);
 		tmp = getcurrenttime(tf);
+		
 	}
 }

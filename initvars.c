@@ -6,7 +6,7 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/26 11:57:41 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/27 18:20:21 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/04/01 14:49:13 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,17 +19,18 @@ void	init_vars(pthread_t **thread, pthread_mutex_t **mtx, int *nbr_ph)
 	*mtx = malloc(sizeof(pthread_mutex_t));
 }
 
-void	init_variables(t_philo **ph, t_info **tp, int *i)
+void	init_variables(t_philo **ph, pthread_mutex_t **mt, t_info **tp, int *i)
 {
 	*i = 0;
 	*ph = NULL;
+	*mt = NULL;
 	*tp = malloc(sizeof(t_info));
 }
 
 void	init_philo_memory(t_philo **ph,
-							pthread_mutex_t *mta, int *nbr)
+							pthread_mutex_t **mta, int *nbr)
 {
-	pthread_mutex_init((mta), NULL);
+	pthread_mutex_init((*mta), NULL);
 	*ph = malloc(sizeof(t_philo) * (*nbr));
 }
 
@@ -39,26 +40,24 @@ void	philo_init_loop(t_philo *ph, pthread_mutex_t **mt, t_info **tf, int i)
 	ph[i].start_time = getcurrenttime((*tf));
 	ph[i].mtxa = *mt;
 	ph[i].check = 0;
+	ph[i].eating_check = -1;
 	ph[i].point = &ph->check;
+	ph[i].eating_point = &ph->eating_check;
 }
 
-void	philos_main_init(t_vars var, pthread_mutex_t *mine, char **av)
+pthread_mutex_t	*philos_main_init(t_vars var, pthread_mutex_t *mine, char **av)
 {
 	pthread_mutex_t	*forks;
 	int				i;
 
-	i = 0;
-	forks = malloc(sizeof(pthread_mutex_t) * var.nbr_ph);
-	if (!forks)
-		return ;
-	while (i < var.nbr_ph)
-	{
-		pthread_mutex_init(&forks[var.i], NULL);
-		i++;
-	}
+	i = -1;
+	forks = malloc(sizeof(forks)* (var.nbr_ph));
+	while (++i < var.nbr_ph)
+		pthread_mutex_init(&forks[i], NULL);
 	while (var.i < var.nbr_ph)
 	{
 		philo_init_loop(var.ph, &mine, &var.time_philo, var.i);
-		philosopher_init(av, var.ph, (var.i++) + 1, forks);
+		philosopher_init(av, var.ph, (var.i++),forks);
 	}
+	return (forks);
 }

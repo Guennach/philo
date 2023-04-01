@@ -6,26 +6,11 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/23 14:44:59 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/27 17:57:42 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/03/31 17:58:01 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
-
-int	nbr_eating(t_philo *ph, char **av, int i, int *checker_eat)
-{
-	int	theres_time_eat;
-
-	theres_time_eat = 1;
-	if (*checker_eat <= ft_atoi(av[1]))
-	{
-		if (ph[i].eating_counter == ft_atoi(av[5]) + 1)
-			*checker_eat = *checker_eat + 1;
-		if (*checker_eat == ft_atoi(av[1]) && theres_time_eat == 1)
-			return (0);
-	}
-	return (1);
-}
 
 int	death_checker(t_philo *ph, int *a, int *c, int i)
 {
@@ -38,6 +23,7 @@ int	death_checker(t_philo *ph, int *a, int *c, int i)
 		*c = 1;
 		pthread_mutex_lock(ph->mtxa);
 		usleep(500);
+		if (ph[i].eating_c)
 		printf("%lld %d died\n", getcurrenttime(ph->tinf)
 			- ph[i].start_time, ph[i].id);
 		pthread_mutex_unlock(ph->mtxa);
@@ -58,18 +44,17 @@ int	checker_philo(t_philo *ph, char **av)
 {
 	int	a;
 	int	checker_eat;
-	int	i;
+	int	j;
 
-	var_init_checkers(&checker_eat, &a, &i, &ph->check);
+	var_init_checkers(&checker_eat, &a, &j, &ph->check);
+	
 	while (a == 0)
 	{
-		i = -1;
-		while (++i < ft_atoi(av[1]))
-		{
-			if (ph[i].last_meal_time > 0
-				&& death_checker(ph, &a, &ph->check, i) == 0)
-				return (0);
-			if (av[5] && nbr_eating(ph, av, i, &checker_eat) == 0)
+		j = -1;
+		while (++j < ft_atoi(av[1]))
+		{	
+			if (ph[j].last_meal_time > 0
+				&& death_checker(ph, &a, &ph->check, j) == 0)
 				return (0);
 		}
 	}

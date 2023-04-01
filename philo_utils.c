@@ -6,7 +6,7 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/23 18:55:29 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/27 17:46:26 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/03/29 19:17:51 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -59,8 +59,7 @@ int	join_threads(int nbr_ph, pthread_t *thread)
 	i = -1;
 	while (++i < nbr_ph)
 	{
-		if (pthread_join(thread[i], NULL))
-			return (0);
+		pthread_join(thread[i], NULL);
 	}
 	return (1);
 }

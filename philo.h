@@ -6,7 +6,7 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/23 17:00:28 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/26 15:42:19 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/04/01 14:49:08 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -59,7 +59,10 @@ typedef struct v_philo
 	pthread_mutex_t	*mtxa;
 	int				rf;
 	int				check;
+	int				eating_check;
 	int				*point;
+	int				*eating_point;
+	int				eating_c;
 }				t_philo;
 
 typedef struct v_vars{
@@ -80,7 +83,7 @@ void			*routine(void *data);
 
 // Init variables
 void			philosopher_init(char **av, t_philo *ph,
-					int id, pthread_mutex_t **mt);
+					int id, pthread_mutex_t *mt);
 
 // threads and mutex init
 int				create_threads(int nbr_ph, t_philo *ph, pthread_t *thread);
@@ -88,7 +91,7 @@ pthread_mutex_t	*forks_init(int nbr_philo);
 
 // time
 long long		getcurrenttime(t_info *tv);
-void			ft_usleep(long long time_to_do, t_info *tf);
+void			ft_usleep(long long time_to_do, t_info *tf, int *check);
 int				checker_philo(t_philo *ph, char **av);
 int				join_threads(int nbr_ph, pthread_t *thread);
 
@@ -105,11 +108,11 @@ void			init_vars(pthread_t **thread,
 					pthread_mutex_t **mtx, int *nbr_ph);
 void			init_variables(t_philo **ph, pthread_mutex_t **mt,
 					t_info **tp, int *i);
-void			init_philo_memory(t_philo **ph, pthread_mutex_t **mt,
+void			init_philo_memory(t_philo **ph,
 					pthread_mutex_t **mta, int *nbr);
 void			philo_init_loop(t_philo *ph, pthread_mutex_t **mt,
 					t_info **tf, int i);
-void			philos_main_init(t_vars var, pthread_mutex_t *mine, char **av);
+pthread_mutex_t *philos_main_init(t_vars var, pthread_mutex_t *mine, char **av);
 
 //init.c
 void			init_vars_main(t_vars *var);
