@@ -6,7 +6,7 @@
 /*   By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/23 17:00:28 by gothmane          #+#    #+#             */
-/*   Updated: 2023/03/26 12:56:32 by gothmane         ###   ########.fr       */
+/*   Updated: 2023/03/26 15:42:19 by gothmane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -80,7 +80,7 @@ void			*routine(void *data);
 
 // Init variables
 void			philosopher_init(char **av, t_philo *ph,
-					int id, pthread_mutex_t *mt);
+					int id, pthread_mutex_t **mt);
 
 // threads and mutex init
 int				create_threads(int nbr_ph, t_philo *ph, pthread_t *thread);

@@ -6,7 +6,7 @@
 #    By: gothmane <gothmane@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/02/23 18:56:06 by gothmane          #+#    #+#              #
-#    Updated: 2023/03/26 14:31:27 by gothmane         ###   ########.fr        #
+#    Updated: 2023/03/27 18:25:03 by gothmane         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,13 +16,13 @@ OBJS_M = ${SRCS_M:.c=.o}
 
 CC = cc
 
-CFLAGS = -Wall -Wextra -Werror -pthread
+CFLAGS = -Wall -Wextra -Werror 
 RM = rm -rf
 
 NAME = philo
 
 $(NAME): $(OBJS_M)
-			${CC} ${Flags} -o $@ $^
+			${CC} ${Flags}  -o $@ $^
 
 all : 	$(NAME)
 
